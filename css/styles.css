@@ -13,3 +13,9 @@ li {
 #navbar {
   border-right: 10px;
 }
+
+div {
+  border: 10px;
+  border-radius: 2;
+  border-color: #111;
+}
