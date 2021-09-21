@@ -11,7 +11,12 @@ li {
 }
 a {
   display: block;
+  padding: 30px;
   background-color: #dddddd;
+}
+
+li a:hover {
+  background-color: #111;
 }
 
 #navbar {
