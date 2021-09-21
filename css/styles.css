@@ -22,7 +22,7 @@ li a:hover {
 #navbar {
   display: flex;
   justify-content: center;
-  border: 1px solid #fff;
+  border: 10px solid #fff;
 }
 
 div {
