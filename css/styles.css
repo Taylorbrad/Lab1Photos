@@ -8,7 +8,10 @@
 li {
   list-style-type: none;
   float: left;
-  display: inline;
+}
+a {
+  display: block;
+  background-color: #dddddd;
 }
 
 #navbar {
