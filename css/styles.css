@@ -23,6 +23,11 @@ li a:hover {
   border: 10px;
   border-radius: 2;
   border-color: #111;
+  display: flex;
+}
+#nav-list {
+  display: flex;
+  flex-direction: column;
 }
 
 div {
