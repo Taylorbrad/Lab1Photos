@@ -24,7 +24,6 @@ li a:hover {
   font-weight: bold;
 }
 #navbar {
-
   background-color: #dddddd;
   display: flex;
   height: auto;
@@ -35,6 +34,9 @@ li a:hover {
   flex-direction: column;
   height: 100vh;
 
+}
+.portfolio {
+    padding-right: 23.5px;
 }
 li a:link,
 li a:visited,
