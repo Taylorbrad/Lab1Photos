@@ -20,6 +20,7 @@ li a:hover {
 }
 
 #navbar {
+<<<<<<< HEAD
   border: 10px;
   border-radius: 2;
   border-color: #111;
@@ -28,6 +29,11 @@ li a:hover {
 #nav-list {
   display: flex;
   flex-direction: column;
+=======
+  display: flex;
+  justify-content: center;
+  border: 10px solid #fff;
+>>>>>>> bdbbf5e524f93e49b5cb39a87395762eaef69fbd
 }
 
 div {
